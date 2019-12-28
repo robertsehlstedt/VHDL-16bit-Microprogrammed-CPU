@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/edu/robse205/project/flappy/src/cpu/k1-simdir
+T_opt
+Z1 VbSa>U73Hif:k^nTJXfG0A1
+Z2 04 5 9 work k1_tb behaviour 1
+Z3 =1-00133b125ff2-5cab6a5b-437c-1a6d
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+Ek1
+Z7 w1554737666
+Z8 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z9 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z10 8../k1.vhd
+Z11 F../k1.vhd
+l0
+L8
+Z12 V=c]Y<T7@mR2JYb87T2Jnc0
+Z13 OE;C;6.5c;42
+o+acc
+Z14 tExplicit 1
+Z15 !s100 75EQaA_Q^B6L`Tm2<E]iH2
+Abehaviour
+R8
+R9
+Z16 DEx51 /edu/robse205/project/flappy/src/cpu/k1-simdir/work 2 k1 0 22 =c]Y<T7@mR2JYb87T2Jnc0
+32
+Z17 Mx2 17 __model_tech/ieee 14 std_logic_1164
+Z18 Mx1 17 __model_tech/ieee 11 numeric_std
+l89
+L15
+Z19 V[FeS_A7@G]:G^;@XB3LjT2
+R13
+o+acc
+R14
+Z20 !s100 jn;F16XkaKk34]5=96j5o3
+Ek1_tb
+Z21 w1554737745
+R8
+R9
+32
+Z22 8../k1_tb.vhd
+Z23 F../k1_tb.vhd
+l0
+L5
+Z24 VCMG;z`K3BR@V[z0AUFGR^1
+R13
+o+acc
+R14
+Z25 !s100 j7daea0LBbD>HXDVlUTGL3
+Abehaviour
+R16
+R8
+R9
+DEx51 /edu/robse205/project/flappy/src/cpu/k1-simdir/work 5 k1_tb 0 22 CMG;z`K3BR@V[z0AUFGR^1
+32
+R17
+R18
+l20
+L8
+Z26 VB=jCf;nPIFfFTKHV5bKa;3
+R13
+o+acc
+R14
+Z27 !s100 O`Ome1XTmUJMMd0ha?43H3

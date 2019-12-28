@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/edu/robse205/project/flappy/src/cpu/alu-simdir
+T_opt
+Z1 V:d<_ciQQCInUPdAgMe42N1
+Z2 04 6 8 work alu_tb behavior 1
+Z3 =1-6805ca755f0b-5cd99d0f-51b11-4fdd
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+Ealu
+Z7 w1555665206
+Z8 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z9 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z10 8../alu.vhd
+Z11 F../alu.vhd
+l0
+L8
+Z12 VH8I<K`e@IM12QSEcnQO6k3
+Z13 OE;C;6.5c;42
+o+acc
+Z14 tExplicit 1
+Z15 !s100 BOMB_BZV^FFUn<9N2hRc93
+Abehaviour
+R8
+R9
+Z16 DEx52 /edu/robse205/project/flappy/src/cpu/alu-simdir/work 3 alu 0 22 H8I<K`e@IM12QSEcnQO6k3
+32
+Z17 Mx2 17 __model_tech/ieee 14 std_logic_1164
+Z18 Mx1 17 __model_tech/ieee 11 numeric_std
+l49
+L24
+Z19 V]S[H1lcYoWe65FeN2f7Ka0
+R13
+o+acc
+R14
+Z20 !s100 kOOYJnC99b[6T>ogLBm080
+Ealu_tb
+Z21 w1557765387
+R8
+R9
+32
+Z22 8../alu_tb.vhd
+Z23 F../alu_tb.vhd
+l0
+L5
+Z24 V862g8cKJWgD=Bd6MImlW13
+R13
+o+acc
+R14
+Z25 !s100 70_CL6YPK`k_R;@g7XaC;1
+Abehavior
+R16
+R8
+R9
+DEx52 /edu/robse205/project/flappy/src/cpu/alu-simdir/work 6 alu_tb 0 22 862g8cKJWgD=Bd6MImlW13
+32
+R17
+R18
+l30
+L8
+Z26 VUEPdJ[5>]h`266JI2E_c>0
+R13
+o+acc
+R14
+Z27 !s100 me1INTD=>5gn^4aEM0[Ph3
+Ereg_file
+Z28 w1554716081
+Z29 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z30 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z31 8../reg_file.vhd
+Z32 F../reg_file.vhd
+l0
+L8
+Z33 V@?n?Bm[Ii`TbAzLG3Vog93
+R13
+32
+o+acc
+R14
+Z34 !s100 3iLhnABRbQ=mL`b;ahR?i2
+Abehaviour
+R29
+R30
+Z35 DEx4 work 8 reg_file 0 22 @?n?Bm[Ii`TbAzLG3Vog93
+l25
+L19
+Z36 VhG_oO4?^^I3TLdi;kRRlJ2
+R13
+32
+Z37 Mx2 4 ieee 14 std_logic_1164
+Z38 Mx1 4 ieee 11 numeric_std
+o+acc
+R14
+Z39 !s100 4=`Eama1Z2H4cXD@?da3[2
+Etb
+Z40 w1554716171
+R29
+R30
+Z41 8../reg_file_tb.vhd
+Z42 F../reg_file_tb.vhd
+l0
+L8
+Z43 VnVRaniO5l<d`AgR:4bX^W1
+R13
+32
+o+acc
+R14
+Z44 !s100 AG:JZ:ia^cCU63GiN?41P3
+Abehaviour
+R29
+R30
+Z45 DEx4 work 2 tb 0 22 nVRaniO5l<d`AgR:4bX^W1
+l33
+L11
+Z46 VCIz[<^N`H;E]aklUV`ibG1
+R13
+32
+R37
+R38
+o+acc
+R14
+Z47 !s100 :Si060eGT7NKSlYl9TL[X1

@@ -1,0 +1,189 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/edu/robse205/project/flappy/src/cpu/cpu-simdir
+T_opt
+Z1 VASQ0l[ZY7LNi4d^97nz?i2
+Z2 04 6 8 work alu_tb behavior 1
+Z3 =1-00133b125ff2-5cab5c5c-67a4-1479
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+T_opt1
+Z7 VnbJ6oia@L=PJ`eaJFUWhX2
+Z8 04 8 9 work reg_file behaviour 1
+Z9 =1-002128821460-5cb5f0df-d62e8-5178
+R4
+Z10 n@_opt1
+R6
+Ealu
+Z11 w1554718059
+Z12 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z13 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z14 8../alu.vhd
+Z15 F../alu.vhd
+l0
+L8
+Z16 VSaVILgFC>jH30NNdYBAL[3
+Z17 OE;C;6.5c;42
+32
+o+acc
+Z18 tExplicit 1
+Z19 !s100 Ua5lb3QL?QR@9bbZabZRg2
+Abehaviour
+R12
+R13
+Z20 DEx4 work 3 alu 0 22 SaVILgFC>jH30NNdYBAL[3
+l49
+L25
+Z21 Vi7lKd>IhR7ezn?<hEPc132
+R17
+32
+Z22 Mx2 4 ieee 14 std_logic_1164
+Z23 Mx1 4 ieee 11 numeric_std
+o+acc
+R18
+Z24 !s100 YC93GIVl<mH42n?<nC19P1
+Ealu_tb
+Z25 w1554715216
+R12
+R13
+Z26 8../alu_tb.vhd
+Z27 F../alu_tb.vhd
+l0
+L5
+Z28 V862g8cKJWgD=Bd6MImlW13
+R17
+32
+o+acc
+R18
+Z29 !s100 70_CL6YPK`k_R;@g7XaC;1
+Abehavior
+R12
+R13
+Z30 DEx4 work 6 alu_tb 0 22 862g8cKJWgD=Bd6MImlW13
+l31
+L8
+Z31 V4DO`TnSSlAePLDG4cW2S43
+R17
+32
+R22
+R23
+o+acc
+R18
+Z32 !s100 PCQ1V6nfkf[[g3d9Y2Rj03
+Ecpu
+Z33 w1555426652
+R12
+R13
+Z34 8../cpu.vhd
+Z35 F../cpu.vhd
+l0
+L8
+Z36 V::k6D4PNZXdTkBGFSL^nd0
+R17
+32
+o+acc
+R18
+Z37 !s100 ze<G9l<EKe_fNRYLj>;UJ1
+Abehaviour
+R12
+R13
+Z38 DEx4 work 3 cpu 0 22 ::k6D4PNZXdTkBGFSL^nd0
+l156
+L15
+Z39 V4GR_chW_aj=F@S[]NN?o32
+R17
+32
+R22
+R23
+o+acc
+R18
+Z40 !s100 4neI^A2cR]gEDl2iE4Mf]1
+Ecpu_tb
+Z41 w1555426738
+R12
+R13
+Z42 8../cpu_tb.vhd
+Z43 F../cpu_tb.vhd
+l0
+L8
+Z44 Vg?i<nSCLKcaC1=:LclMhS2
+R17
+32
+o+acc
+R18
+Z45 !s100 jU?H^3?oWWgo?2ek_YYmn1
+Abehaviour
+R12
+R13
+Z46 DEx4 work 6 cpu_tb 0 22 g?i<nSCLKcaC1=:LclMhS2
+l25
+L11
+Z47 V0NYI^P2ED7T03jVkj^k7:3
+R17
+32
+R22
+R23
+o+acc
+R18
+Z48 !s100 c<>MlA0z_8S53C8HIVE4S0
+Ereg_file
+Z49 w1555420291
+Z50 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z51 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z52 8../reg_file.vhd
+Z53 F../reg_file.vhd
+l0
+L8
+Z54 V`^geBZKh2Y7f>QUzaFW>Z1
+R17
+o+acc
+R18
+Z55 !s100 MR0:cQcbK9T@@An:AYA]L0
+Abehaviour
+R50
+R51
+DEx52 /edu/robse205/project/flappy/src/cpu/cpu-simdir/work 8 reg_file 0 22 `^geBZKh2Y7f>QUzaFW>Z1
+32
+Mx2 17 __model_tech/ieee 14 std_logic_1164
+Mx1 17 __model_tech/ieee 11 numeric_std
+l25
+L19
+Z56 V:_dXb1M@5Vb=PB]SS6Hj63
+R17
+o+acc
+R18
+Z57 !s100 5Y2RkgDbz01^aSni8FYJe1
+Ereg_file_tb
+Z58 w1555424029
+R12
+R13
+R42
+R43
+l0
+L8
+Z59 Vh?EnGFoE>4Q3jaXD:jYcE3
+R17
+32
+o+acc
+R18
+Z60 !s100 @D=NC@ek5N>B:DfGzl<YI2
+Abehaviour
+R12
+R13
+Z61 DEx4 work 11 reg_file_tb 0 22 h?EnGFoE>4Q3jaXD:jYcE3
+l33
+L11
+Z62 V3^E<N^IWTC]CagYT?A9;32
+R17
+32
+R22
+R23
+o+acc
+R18
+Z63 F../reg_file_tb.vhd
+Z64 8../reg_file_tb.vhd
+Z65 !s100 HjaLRX:Hzl2O3[ZLUV9AM2
