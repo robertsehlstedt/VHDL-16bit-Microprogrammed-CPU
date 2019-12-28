@@ -1,1 +1,0 @@
-./../../compiler/compiler code program_mem.vhd --full ../../compiler/header.vhd ../../compiler/footer.vhd
